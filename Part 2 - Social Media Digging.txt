@@ -1,0 +1,47 @@
+https://www.cybercuretech.com/paytm
+
+SOCIAL MEDIA DIGGING
+
+Cryptography: hashing = md5
+
+Social Engineering: Phishing
+	1.to design a HTML page that looks like actual webpage
+	2.develop a PHP script that will send the username and password to the 			attacker and will redirect the user to another website
+	3.to connect the html page to the PHP script
+	Execution: social engineering your friend to login into your html page
+
+open in incognito
+right click > view page source
+copy entire code in a notepad
+select word wrap in notepad and click on the first line
+then save it as a unique name (eg. Free recharge.html) as a unicode file type
+develop a script = https://www.cybercuretech.com/pracph1400.php?id=shubhamdudhal9@gmail.com&link=https://paytm.com
+		   id=..........@gmail.com&link=.....website.com.....
+open the notepad
+find "action="
+enter the URL that is provided
+save the notepad
+convert into zip file if you want
+then send it to the victim
+
+Tool Kit= cybercure.in
+	  create an account
+	  workshop code= PICTEH2018
+	  process will take 24 hours to activate account
+	  then login in 
+	  download cybercure developed script
+	  host.cybercure.in
+
+COUNTER MEASURES OF PHISHING:
+1. Anti-trust
+2. Use your brain 
+	always give wrong password for the first time
+	check the URL
+
+
+
+
+
+
+
+

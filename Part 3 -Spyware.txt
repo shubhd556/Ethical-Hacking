@@ -1,0 +1,14 @@
+SPYWARE/KEYLOGGERS:
+They are tools that log all the keystrokes, webchats, URLs, screenshots, webcam pics, Audios and etc.
+
+tool :  ardamax keylogger
+	family keylogger
+	elite keylogger
+	perfect keylogger
+
+Counter measures
+1.anit trust 
+2.use your brain
+
+
+ 

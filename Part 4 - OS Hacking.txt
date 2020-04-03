@@ -1,0 +1,29 @@
+cmd (Command prompt)
+command = net user....*
+
+angry ip scanner
+enter first and last ip 
+ 
+tmac
+
+Kon-Boot: magical pendrive
+
+kali linux
+
+yummi/universal USB installer
+
+sethc.exe
+location = c:\windows\system32
+
+cmd.exe
+location = c:\windows\system32
+
+explorer.exe
+
+Counter measures:
+1. BIOS password = password on motherboard
+
+
+
+
+

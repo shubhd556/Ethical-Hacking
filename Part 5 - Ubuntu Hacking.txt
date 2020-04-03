@@ -1,0 +1,15 @@
+Linux Security Architecture
+
+etc/shadow: Passwords
+bin/bash: User Profile
+
+grub linux
+hold shift while starting the pc
+go to recovery mode
+replace "ro" to "rw init=/bin/bash"
+press control h to boot
+passwd ......(name of user)....
+reboot -f
+
+Prevention:
+1.BIOS

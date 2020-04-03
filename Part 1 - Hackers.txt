@@ -1,0 +1,47 @@
+WHO ARE HACKERS?
+people who are experts who gain info
+
+TYPES OF HACKERS:
+1. As per knowledge
+	script kiddies/newbies
+	admins
+	coders
+2. As per working
+	white hat
+	black hat
+	grey hat
+
+hackthissite.com
+mrrobot.iso
+gameover.iso
+rsa token.com
+safe net.com
+whoisit.com
+built-with.com
+offensive security database.com
+exploit-db.com
+
+
+STEPS OF HACKING:
+1. reconnaissance = gathering info about the victim from a passsive source (secondary source)
+2. scanning = Nmap
+3. gaining access
+4. maintaning access
+5. clearing tracks
+
+STEPS OF INFORMATION SECURITY:
+1. reconnaissance
+2. scanning = Nmap
+3. gaining access
+4. maintaning access
+5. patch management
+
+
+
+
+
+
+
+
+
+
